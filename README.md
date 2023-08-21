@@ -5,4 +5,4 @@ update
 
 feature
 
-remote A
+remote B
